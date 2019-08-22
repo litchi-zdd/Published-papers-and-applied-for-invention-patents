@@ -10,7 +10,9 @@
 [2]  刘福来，张艾怡，杜瑞燕，张丹丹等. 基于Hankel变换的无线传感网高维数据补全方法(申请号：201910737758.6)
 
 已发表论文：
+
 [1]  《Deep DPER-Agent Reinforcement Learning for Dynamic Spectrum Sharing》（SCI在审）
+
 [2]  Fulai Liu, Dandan Zhang*, Ling Yue, Fan Gao, Ruiyan Du. An OFDM Multi-user spectrum resource allocation algorithm based on joint access mechanism[C]. ICSESS, 2018. EI: 20191406724638.
 
 [3]  Ruiyan Du, Ling Yue*, Dandan Zhang*, Yadong Wang. Performance analysis for single-tone interference based on frequency difference and angle difference[C]. ICSESS, 2018. EI: 20191406724485.
